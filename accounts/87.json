@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aurora-leech-bot",
+  "private_key_id": "dddec130631b449c8f3bc77e30e73a6722a7f395",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoCGh+L7AdHHwR\nn/vYarT1AH4Q50OYv9RQ2Y9QxKmEOC/JdUjXP9GFb75S+wb7e7vZM6CQmb85g4Tm\n1MoDa6xrk/obG9zJtZWMnTGV3ATIaAJfbLcZSydBkDU5Iimdq2MN3gvixlgotDBY\ni9DWhFWh7CB9keXiVOUhEVf79rNHc4owMCJH/0Y/40KnHRtFnknmq7vLU3H1OV9u\n6sF9hPRBYx4OwoHq5m5kL0HCxaLjNi3psCFBQUZmEMdQHyGn46l0Zy2XUyiZappZ\nmTyG4emZrV15aSBrtvq9PVZJhrBM+0UiPYUspz5JSYZQ/MaLe5F57n/ZNJSLk+qe\n4sFz8kpjAgMBAAECggEACxDisMy7MG+bzB1ZHJuKZ0gtBTf1v62CcgCh65PIBikd\nHItYzLQrPDprslNN1moDqP45aMx3R3Zd3kXNOARzSnJoWjivhakrvCLuDQx8VCZl\nYZtrQ4MrhqnUl3qkevm6gENLTRf63lNfi7VJf5cffJZsXViqZwloPZFC1hkdHWtn\nIZuXUSY714aQUPFJS3o+OAoMUcKh7opn4apMp3NXoR2Qw73b+mmAkIXdGZ3bIaY5\n0KXNWdLnlE8nyaKsLzgrhPOwsCdugfndM1Z4qnTf38pyi/MlqcybHG42FjBKSyAZ\nAaJ+B2Ge8a4eOidzPCZdivgWKwW6tIm+auFSVqvUwQKBgQDdnEC1iufJv/C+S1WK\nLkBEb72EJrhdyS6uXDJfQvpYZi4XszSKZB8wdqBYb9vKP3VtT/pfdZ0lPbb8uGeH\niV57LNHb03ZrWbXdaj/Bq8x0Chn4kyZtkAYVOFepX7664oKsuDQGZuJQriAoMomf\n01iielImioOU3JFDwIWvTjFmCQKBgQDCG7jNBVzxmapmflLw5c7a3DkrUSdQ1xV2\nOq/xMNBqt4w5SlECL9rB9bfcTjrxlLmqmjULmsBHo8yeLcE4u1NugnhG3Ern3x7X\nMvy2Wil84Fe0PP78HUbJ75WSFFioGtkmql0HjvvVcocW7QA8khSZCErnAKPY4FVH\ndFNFZTWoCwKBgQC5eClMBuoAlqxkhuYbVKQi4qXo8QMCMvrnoG/j/ElLLJFM8oV5\ngVv9EnsWKN/4/21GxFXWCLgxT9pS3f5/l79ENXmZkfwc0iL8IQ0lCKR/RWkA+h6C\nObRtlA8ByQj2ndYhubSI2xhzz5dILSuzYI1gxiD08p43OvY0ju8TjcyYCQKBgE1e\nU1iUzKkYAM19iH2we7TMlpTnce5M7KcFWV+ff1Mp+eBT+NoQTPeGg1Rychgcmayg\nbohDlGR5q3NY9W0xbV3c7yf/YnPtgRNxpTzhzyuRGCQlM9U1riOLNWjWZ0gJ+4fn\n29DJcyNu1N2UdcWuzDr7DS/qF2S4dgVXHmHIp4xlAoGAZ53WTH3itYW52hTnOxz9\nngwwNW/p6eOZnFMIVhHYYJbZNpxMGh3GN2agBJeH4sf1g9i1rUfBM4vLWaIslQ/P\nE2FMEQEF/YKwmwcy3hN3ZgmxSvPMtU41XBZENAEAk9P9L5gM/sd/nUK0GNIZ7OnY\n04wCTJHI4zyM8tuIlymZOE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-17kkfpbn6pb7yssvv529wfa27m@aurora-leech-bot.iam.gserviceaccount.com",
+  "client_id": "101794779999195142505",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-17kkfpbn6pb7yssvv529wfa27m%40aurora-leech-bot.iam.gserviceaccount.com"
+}
